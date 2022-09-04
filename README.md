@@ -55,7 +55,7 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdZillurRahman&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdZillurRahman)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdZillurRahman)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/MdZillurRahman)  
 
