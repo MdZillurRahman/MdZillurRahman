@@ -1,16 +1,18 @@
 ![Junior full-stack developer.](https://media-exp1.licdn.com/dms/image/C4D16AQHN8oOXIAAzHg/profile-displaybackgroundimage-shrink_350_1400/0/1654709162111?e=1668038400&v=beta&t=zmpsv5oMBuCi7Y2ki6ff5UdOF3lk8TgdvjuUGT0ByuM)
 
-### Hi there 👋, I am MD. Zillur Rahman
-#### Junior full-stack developer.
+### Hi there 👋, I am MD. Zillur Rahman.
+#### Junior MERN Stack Developer.
 
 
-My ambition is to work as a junior full-stack web developer. I earned my bachelor's degree in
-physics from the University of Dhaka. I'm now pursuing my ambition of becoming a web
-developer. I finished a web development course where I learned HTML, CSS, Bootstrap,
-Tailwind CSS, React, Firebase, MongoDB, Node JS, and Express JS. My current goal is to work
-as a junior web developer and master REACT.
+My ambition is to work as a junior mern stack developer. I earned my bachelor's degree in physics from the University of Dhaka. I'm now pursuing my ambition of becoming a web developer. I finished a web development course where I learned HTML, CSS, Bootstrap, Tailwind CSS, React, Firebase, MongoDB, Node JS, and Express JS. My current goal is to work as a junior web developer and master REACT.
 
-Skills: HTML5 / CSS3 / Bootstrap / Tailwind CSS / REACT JS / JS / Redux / Redux-toolkit / Firebase / NodeJS / Express JS / MongoDB
+#### Skills:
+- HTML5              - React JS              - Firebase 
+- CSS3               - JavaScript            - NodeJS
+- Bootstrap          - Redux                 - Express JS
+- Tailwind CSS       - Redux-Toolkit         - MongoDB
+
+<!-- Skills:  / CSS3 / Bootstrap / Tailwind CSS / REACT JS / JS / Redux / Redux-toolkit / Firebase / NodeJS / Express JS / MongoDB -->
 
 - 🌱 I’m currently learning Redux-Toolkit. 
 - 👯 I’m looking to collaborate on github. 
