@@ -23,9 +23,13 @@ Skills: HTML5 / CSS3 / Bootstrap / Tailwind CSS / REACT JS / JS / Redux / Redux-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MdZillurRahman)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZillurRahman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZillurRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdZillurRahman&show_icons=true)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdZillurRahman&show_icons=true&theme=radical)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)   -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdZillurRahman)  
 
