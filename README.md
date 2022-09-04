@@ -26,9 +26,18 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 
 <!-- Skills:  / CSS3 / Bootstrap / Tailwind CSS / REACT JS / JS / Redux / Redux-toolkit / Firebase / NodeJS / Express JS / MongoDB -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZillurRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Currently Doing:
+
 - 🌱 I’m currently learning Redux-Toolkit. 
 - 👯 I’m looking to collaborate on github. 
-- 📫 How to reach me: mzisanr@gmail.com 
+
+#### How to reach me:
+- 📫 Email: mzisanr@gmail.com 
+- 📞 Mobile : +88-01515682256
+- 📲 What's App : +88-01309182480
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdZillurRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100010465036529)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zillurportfolio.netlify.app/)  
@@ -37,7 +46,6 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MdZillurRahman)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZillurRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats) -->
 
