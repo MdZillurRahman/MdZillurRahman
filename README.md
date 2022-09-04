@@ -3,7 +3,7 @@
 ### Hi there 👋, I am MD. Zillur Rahman.
 #### Junior MERN Stack Developer.
 
-[Resume](https://drive.google.com/file/d/1SFPqSPne3dlC49towx5efEVg8Biex9Is/view?usp=sharing)
+#### [Resume](https://drive.google.com/file/d/1SFPqSPne3dlC49towx5efEVg8Biex9Is/view?usp=sharing)
 
 
 My ambition is to work as a junior mern stack developer. I earned my bachelor's degree in physics from the University of Dhaka. I'm now pursuing my ambition of becoming a web developer. I finished a web development course where I learned HTML, CSS, Bootstrap, Tailwind CSS, React, Firebase, MongoDB, Node JS, and Express JS. My current goal is to work as a junior web developer and master REACT.
