@@ -8,6 +8,8 @@
 
 My ambition is to work as a junior mern stack developer. I earned my bachelor's degree in physics from the University of Dhaka. I'm now pursuing my ambition of becoming a web developer. I finished a web development course where I learned HTML, CSS, Bootstrap, Tailwind CSS, React, Firebase, MongoDB, Node JS, and Express JS. My current goal is to work as a junior web developer and master REACT.
 
+![Profile views](https://gpvc.arturio.dev/MdZillurRahman)  
+
 #### Skills:
 - HTML5                      
 - CSS3                       
@@ -49,9 +51,9 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdZillurRahman&show_icons=true&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdZillurRahman&show_icons=true&theme=radical) -->
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)   -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdZillurRahman&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdZillurRahman)  
 
@@ -59,4 +61,4 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MdZillurRahman)  
 
-![Profile views](https://gpvc.arturio.dev/MdZillurRahman)  
+
