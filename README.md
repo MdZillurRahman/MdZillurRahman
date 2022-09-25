@@ -84,9 +84,11 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 - 📞 Mobile : +88-01515682256 </br>
 - 📲 What's App : +88-01309182480 </br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdZillurRahman)  [<img src="./icons/LinkedIn.svg" width="48">]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100010465036529)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zillurportfolio.netlify.app/)  
 
+
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zillurportfolio.netlify.app/)  
 
 
 
