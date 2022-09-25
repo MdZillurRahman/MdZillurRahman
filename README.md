@@ -29,7 +29,8 @@ beyond their expectations.<h6>
 
 
 
-#### [Resume](https://drive.google.com/file/d/1SFPqSPne3dlC49towx5efEVg8Biex9Is/view?usp=sharing)
+#### [Resume](https://drive.google.com/file/d/1RptOxgcmuNQuasOaL4pXzON1jA4Y0ZPe/view?usp=sharing)
+### [CV] (https://drive.google.com/file/d/17UpSu9XMUQcxTeOdD7ehTCVzX0hC95jz/view?usp=sharing)
 
 ![Profile views](https://gpvc.arturio.dev/MdZillurRahman)  
 
