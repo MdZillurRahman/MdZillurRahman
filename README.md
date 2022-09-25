@@ -95,8 +95,8 @@ beyond their expectations.<h6>
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='40'>]([https://zillurportfolio.netlify.app/](https://www.facebook.com/profile.php?id=100010465036529))  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zillurportfolio.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='48'>](https://www.facebook.com/profile.php?id=100010465036529)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='48'>](https://zillurportfolio.netlify.app/)  
 
 
 
