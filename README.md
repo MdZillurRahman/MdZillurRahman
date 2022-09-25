@@ -33,19 +33,20 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-- HTML5                      
-- CSS3                       
-- Bootstrap                  
-- Tailwind CSS               
-- React JS      
-- JavaScript    
-- Redux         
-- Redux-Toolkit 
-- Firebase 
-- NodeJS
-- Express JS
-- MongoDB
-
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
 <!-- Skills:  / CSS3 / Bootstrap / Tailwind CSS / REACT JS / JS / Redux / Redux-toolkit / Firebase / NodeJS / Express JS / MongoDB -->
@@ -85,6 +86,9 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 - 📲 What's App : +88-01309182480 </br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdZillurRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100010465036529)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zillurportfolio.netlify.app/)  
+
+[![My Skills](https://skillicons.dev/icons?i=facebook)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 
