@@ -63,7 +63,6 @@ beyond their expectations.<h6>
 - 👯 I’m looking to collaborate on github. 
 - 👯 I’m currently open for work and employment opportunities (remote and onsite (Chittagong))
 - 💬 Ask me about React.js, Javascript, Redux, NodeJS, Firebase and API development.
-- 
 
 
 
@@ -94,8 +93,8 @@ beyond their expectations.<h6>
 
 
 
-[(https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
-[(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='40'>]([https://zillurportfolio.netlify.app/](https://www.facebook.com/profile.php?id=100010465036529))  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zillurportfolio.netlify.app/)  
 
