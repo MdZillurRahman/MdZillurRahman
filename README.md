@@ -92,7 +92,6 @@ beyond their expectations.<h6>
 - 📲 What's App : +88-01309182480 </br>
 
 
-</br>
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='48'>](https://www.facebook.com/profile.php?id=100010465036529)
