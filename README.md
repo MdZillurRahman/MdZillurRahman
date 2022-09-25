@@ -1,8 +1,7 @@
 ![Junior full-stack developer.](https://media-exp1.licdn.com/dms/image/C4D16AQHN8oOXIAAzHg/profile-displaybackgroundimage-shrink_350_1400/0/1654709162111?e=1668038400&v=beta&t=zmpsv5oMBuCi7Y2ki6ff5UdOF3lk8TgdvjuUGT0ByuM)
 
-### 
 <h1>Hi there 👋, I am MD. Zillur Rahman.</h1>
-#### MERN Stack Developer.
+<h3> MERN Stack Developer</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
