@@ -3,6 +3,12 @@
 <h1>Hi there 👋, I am MD. Zillur Rahman.</h1>
 <h3> MERN Stack Developer</h3>
 
+<h6>In spite of being a student of Physics, the more I get attached to modern information technology day by day
+I found myself interested in web development. I'm a self-driven team player with one year of experience
+looking for a career as a frontend web developer with Next Century Web Development where I can use my
+leadership skills and advanced understanding of web design to satisfy client demands and go above and
+beyond their expectations.<h6>
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -22,10 +28,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-E34F26?style=flat-square&logo=vercel&logoColor=black)
 
 
+
 #### [Resume](https://drive.google.com/file/d/1SFPqSPne3dlC49towx5efEVg8Biex9Is/view?usp=sharing)
-
-
-My ambition is to work as a junior mern stack developer. I earned my bachelor's degree in physics from the University of Dhaka. I'm now pursuing my ambition of becoming a web developer. I finished a web development course where I learned HTML, CSS, Bootstrap, Tailwind CSS, React, Firebase, MongoDB, Node JS, and Express JS. My current goal is to work as a junior web developer and master REACT.
 
 ![Profile views](https://gpvc.arturio.dev/MdZillurRahman)  
 
