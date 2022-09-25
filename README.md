@@ -52,8 +52,6 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 <!-- Skills:  / CSS3 / Bootstrap / Tailwind CSS / REACT JS / JS / Redux / Redux-toolkit / Firebase / NodeJS / Express JS / MongoDB -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZillurRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Currently Doing:
 
 - 🌱 I’m currently learning Redux-Toolkit. 
@@ -79,6 +77,7 @@ My ambition is to work as a junior mern stack developer. I earned my bachelor's 
 ![GitHub metrics](https://metrics.lecoq.io/MdZillurRahman)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MdZillurRahman)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdZillurRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h5>How to reach me:</h5>
 - 📫 Email: mzisanr@gmail.com  </br> 
