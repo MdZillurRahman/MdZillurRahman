@@ -28,9 +28,9 @@ beyond their expectations.<h6>
 ![Vercel](https://img.shields.io/badge/Vercel-E34F26?style=flat-square&logo=vercel&logoColor=black)
 
 
-
-#### [Resume](https://drive.google.com/file/d/1RptOxgcmuNQuasOaL4pXzON1jA4Y0ZPe/view?usp=sharing)
 ### [CV](https://drive.google.com/file/d/17UpSu9XMUQcxTeOdD7ehTCVzX0hC95jz/view?usp=sharing)
+#### [Resume](https://drive.google.com/file/d/1RptOxgcmuNQuasOaL4pXzON1jA4Y0ZPe/view?usp=sharing)
+
 
 ![Profile views](https://gpvc.arturio.dev/MdZillurRahman)  
 
@@ -61,6 +61,9 @@ beyond their expectations.<h6>
 
 - 🌱 I’m currently learning Redux-Toolkit. 
 - 👯 I’m looking to collaborate on github. 
+- 👯 I’m currently open for work and employment opportunities (remote and onsite (Chittagong))
+- 💬 Ask me about React.js, Javascript, Redux, NodeJS, Firebase and API development.
+- 
 
 
 
