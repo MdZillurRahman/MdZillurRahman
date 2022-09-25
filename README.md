@@ -1,7 +1,7 @@
 ![Junior full-stack developer.](https://media-exp1.licdn.com/dms/image/C4D16AQHN8oOXIAAzHg/profile-displaybackgroundimage-shrink_350_1400/0/1654709162111?e=1668038400&v=beta&t=zmpsv5oMBuCi7Y2ki6ff5UdOF3lk8TgdvjuUGT0ByuM)
 
 <h1>Hi there 👋, I am MD. Zillur Rahman.</h1>
-<h3> MERN Stack Developer</h3>
+<h3> Front End Developer</h3>
 
 <h6>In spite of being a student of Physics, the more I get attached to modern information technology day by day
 I found myself interested in web development. I'm a self-driven team player with one year of experience
@@ -92,7 +92,7 @@ beyond their expectations.<h6>
 - 📲 What's App : +88-01309182480 </br>
 
 
-
+</br>
 [![My Skills](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-zillur-rahman-2042291ab/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='48'>](https://www.facebook.com/profile.php?id=100010465036529)
