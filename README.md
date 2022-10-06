@@ -1,13 +1,17 @@
 ![Junior full-stack developer.](https://media-exp1.licdn.com/dms/image/C4D16AQHN8oOXIAAzHg/profile-displaybackgroundimage-shrink_350_1400/0/1654709162111?e=1668038400&v=beta&t=zmpsv5oMBuCi7Y2ki6ff5UdOF3lk8TgdvjuUGT0ByuM)
 
+
+<div align="center">
 <h1>Hi there 👋, I am MD. Zillur Rahman.</h1>
 <h3> Front End Developer</h3>
+</div>
 
-<h6>In spite of being a student of Physics, the more I get attached to modern information technology day by day
+
+<h4>In spite of being a student of Physics, the more I get attached to modern information technology day by day
 I found myself interested in web development. I'm a self-driven team player with one year of experience
 looking for a career as a frontend web developer with Next Century Web Development where I can use my
 leadership skills and advanced understanding of web design to satisfy client demands and go above and
-beyond their expectations.<h6>
+beyond their expectations.<h4>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
