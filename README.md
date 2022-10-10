@@ -7,11 +7,11 @@
 </div>
 
 
-<h4>In spite of being a student of Physics, the more I get attached to modern information technology day by day
+<h3>In spite of being a student of Physics, the more I get attached to modern information technology day by day
 I found myself interested in web development. I'm a self-driven team player with one year of experience
 looking for a career as a frontend web developer with Next Century Web Development where I can use my
 leadership skills and advanced understanding of web design to satisfy client demands and go above and
-beyond their expectations.<h4>
+beyond their expectations.<h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
