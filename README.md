@@ -32,8 +32,8 @@ beyond their expectations.<h3>
 ![Vercel](https://img.shields.io/badge/Vercel-E34F26?style=flat-square&logo=vercel&logoColor=black)
 
 
-### [CV](https://drive.google.com/file/d/17UpSu9XMUQcxTeOdD7ehTCVzX0hC95jz/view?usp=sharing)
-#### [Resume](https://drive.google.com/file/d/1RptOxgcmuNQuasOaL4pXzON1jA4Y0ZPe/view?usp=sharing)
+### [CV](https://drive.google.com/file/d/1DsbIt1QwWFtV4m-RpiTM0UsiIURhvQmb/view?usp=drive_link)
+#### [Resume](https://drive.google.com/file/d/1GO_bSnQjZgjrYBZ2ar68_Aws7_mgXXGb/view?usp=drive_link)
 
 
 ![Profile views](https://gpvc.arturio.dev/MdZillurRahman)  
