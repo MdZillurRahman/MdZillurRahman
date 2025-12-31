@@ -1,4 +1,4 @@
-![Shopify Developer Banner](https://www.canva.com/design/DAG9GVemtTg/GU8qKI6pgazZaukR8UJBJw/edit?utm_content=DAG9GVemtTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Shopify Developer Banner](https://github.com/user-attachments/assets/93f81f48-60b8-4400-8e8c-7b56115450d1)
 
 <div align="center">
 <h1>👋 Hi, I'm MD. Zillur Rahman</h1>
