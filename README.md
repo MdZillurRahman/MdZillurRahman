@@ -81,11 +81,11 @@ Shopify Developer with nearly 4 years of experience (since Dec 2022) building an
 
 ## 🧩 Selected Projects
 
+- **Kinetic Brands client work**: Custom Shopify stores with advanced theme customization, third-party API integrations, an optimized checkout workflow, and wishlist, free gift, and bundle features.
 - **Dyna Performance** *(Freelance, 2026)*: Migrated the store from the Dawn theme to the Impact theme and redesigned it. Built new custom sections and custom solutions that replaced several third-party apps.
 - **Pankowri Publications** *(Freelance, 2025)*: Advanced Dawn theme customizations, with bKash payment integration and custom checkout logic.
 - **Ninety Percent** *(Client project via Echologyx, 2023)*: Shopify store on the Impulse theme, with blogs and static pages that educate shoppers about fabrics.
 - **Gardenista Bespoke** *(Client project via Echologyx, 2023)*: React iframe app inside a Shopify site for order management and card/PayPal payments.
-- **Kinetic Brands client work**: Custom Shopify stores with advanced theme customization, third-party API integrations, an optimized checkout workflow, and wishlist, free gift, and bundle features.
 - **Redux Learning** *(Team project, MERN stack)*: A learning platform for Redux with evaluation and forum sections.
 
 ---
